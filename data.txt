@@ -1,3 +1,4 @@
 Name: Nicolle Gonzalez
 Age: 26
 Favorite Color: Purple
+Pet: PJ
